@@ -53,6 +53,7 @@ desktop.spotify.com
 difesa.it
 doppiaessetshirt.it
 doubleclick.net
+editoriadigitaleitalia.com
 elle.com
 eoro.io
 esperiaitalia.it
@@ -153,12 +154,14 @@ pubads.g.doubleclick.net
 publishinglifestyle.com
 punto5.it
 puwus.com
+quattordicigraphic.it
 relai.app
 revolutionlive.it
 ristoaffari.it
 rominaagitata.com
 rondevo.com
 royalqatar.ru
+salvadanaiodellecrypto.altervista.org
 sawub.com
 securepubads.g.doubleclick.net
 sellspire.ca
